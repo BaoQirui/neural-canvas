@@ -1,2 +1,3 @@
-# neural-canvas
-This repository is used to store the code for COMP208.
+Built Environment
+---
+- `python`: 3.9.0
